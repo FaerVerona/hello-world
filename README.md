@@ -1,2 +1,3 @@
 # hello-world
-In the beginning it was all black and white
+In the beginning it was all black and white.
+- Maureen O'Hara
